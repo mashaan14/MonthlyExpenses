@@ -1,6 +1,8 @@
 # Monthly Expenses Analysis using Dash in python
 
-The code in `MyDashboard.py` produces a web page with four plots to analyse the transactions in the csv file `Transactions.csv`
+The code in `MyDashboard.py` produces a web page with four plots to analyse the transactions in the csv file `Transactions.csv`.
+The transactions dataset was retrieved from Kaggle website, and can be found on this link:
+[Personal Finance](https://www.kaggle.com/bukolafatunde/personal-finance?select=personal_transactions.csv)
 
 ## Installation
 
