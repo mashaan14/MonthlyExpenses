@@ -27,7 +27,7 @@ Run the code in Python, then open this address (http://127.0.0.1:8050/) in your 
 </p>
 
 <p align="center">
-  <img width="1200" src=ScreenShot01.png>
+  <img width="1200" src=ScreenShot02.png>
 </p>
 
 ## Disclaimer
