@@ -23,11 +23,11 @@ Run the code in Python, then open this address (http://127.0.0.1:8050/) in your 
 ## Output
 
 <p align="center">
-  <img width="1200" src="Screen Shot 01.PNG">
+  <img width="1200" src=ScreenShot01.png>
 </p>
 
 <p align="center">
-  <img width="1200" src="Screen Shot 02.PNG">
+  <img width="1200" src=ScreenShot01.png>
 </p>
 
 ## Disclaimer
