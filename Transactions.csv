@@ -1,0 +1,663 @@
+Date,Amount,Description,Category
+01/01/2018,11.11,Amazon,Shopping
+01/02/2018,1247.44,Mortgage Payment,Mortgage & Rent
+01/02/2018,24.22,Thai Restaurant,Restaurants
+01/04/2018,11.76,Netflix,Movies & DVDs
+01/05/2018,25.85,American Tavern,Restaurants
+01/06/2018,18.45,Hardware Store,Home Improvement
+01/08/2018,45,Gas Company,Utilities
+01/08/2018,15.38,Hardware Store,Home Improvement
+01/09/2018,10.69,Spotify,Music
+01/10/2018,89.46,Phone Company,Mobile Phone
+01/11/2018,34.87,Shell,Gas & Fuel
+01/11/2018,43.54,Grocery Store,Groceries
+01/13/2018,32.91,Pizza Place,Fast Food
+01/13/2018,39.05,Amazon,Shopping
+01/15/2018,44.19,Grocery Store,Groceries
+01/15/2018,64.11,American Tavern,Restaurants
+01/16/2018,35,City Water Charges,Utilities
+01/16/2018,60,Power Company,Utilities
+01/20/2018,50.21,Amazon,Shopping
+01/22/2018,554.99,Credit Card Payment,Credit Card Payment
+01/22/2018,17.38,Hardware Store,Home Improvement
+01/23/2018,309.81,Credit Card Payment,Credit Card Payment
+01/24/2018,3,Starbucks,Coffee Shops
+01/25/2018,69.99,Internet Service Provider,Internet
+01/29/2018,30.42,Shell,Gas & Fuel
+01/29/2018,25,Thai Restaurant,Restaurants
+01/29/2018,17.62,Brunch Restaurant,Restaurants
+02/01/2018,27.79,Grocery Store,Groceries
+02/01/2018,11.11,Amazon,Shopping
+02/02/2018,1247.44,Mortgage Payment,Mortgage & Rent
+02/03/2018,57.02,Japanese Restaurant,Restaurants
+02/04/2018,11.76,Netflix,Movies & DVDs
+02/07/2018,154.13,Credit Card Payment,Credit Card Payment
+02/07/2018,65,Gas Company,Utilities
+02/09/2018,30,Barbershop,Haircut
+02/09/2018,10.69,Spotify,Music
+02/10/2018,10.66,Bojangles,Fast Food
+02/11/2018,106.8,Fancy Restaurant,Restaurants
+02/12/2018,36.47,Shell,Gas & Fuel
+02/12/2018,89.52,Phone Company,Mobile Phone
+02/15/2018,10,American Tavern,Restaurants
+02/15/2018,60,Power Company,Utilities
+02/16/2018,8,Brunch Restaurant,Restaurants
+02/16/2018,35,City Water Charges,Utilities
+02/20/2018,35.95,Grocery Store,Groceries
+02/20/2018,23.51,Mexican Restaurant,Restaurants
+02/21/2018,2,Starbucks,Coffee Shops
+02/22/2018,4,Starbucks,Coffee Shops
+02/26/2018,765.37,Credit Card Payment,Credit Card Payment
+02/26/2018,74.99,Internet Service Provider,Internet
+02/26/2018,85.52,American Tavern,Restaurants
+02/26/2018,32.21,Gas Station,Gas & Fuel
+02/27/2018,156.11,Credit Card Payment,Credit Card Payment
+03/01/2018,32.07,Grocery Store,Groceries
+03/01/2018,13.13,Amazon,Shopping
+03/02/2018,1247.44,Mortgage Payment,Mortgage & Rent
+03/03/2018,23.74,Grocery Store,Groceries
+03/04/2018,10.69,Grocery Store,Groceries
+03/04/2018,11.76,Netflix,Movies & DVDs
+03/04/2018,42.24,BBQ Restaurant,Restaurants
+03/05/2018,3,Starbucks,Coffee Shops
+03/05/2018,761.59,Credit Card Payment,Credit Card Payment
+03/07/2018,3.5,Starbucks,Coffee Shops
+03/08/2018,34.9,BP,Gas & Fuel
+03/08/2018,52,Gas Company,Utilities
+03/09/2018,20.72,Grocery Store,Groceries
+03/09/2018,5.09,Grocery Store,Groceries
+03/09/2018,10.69,Spotify,Music
+03/12/2018,19.35,Grocery Store,Groceries
+03/12/2018,89.52,Phone Company,Mobile Phone
+03/13/2018,45.75,Amazon,Shopping
+03/14/2018,22.5,Grocery Store,Groceries
+03/14/2018,8.49,Brunch Restaurant,Restaurants
+03/15/2018,3.5,Starbucks,Coffee Shops
+03/15/2018,60,Power Company,Utilities
+03/17/2018,23.34,Pizza Place,Fast Food
+03/19/2018,36.48,Mediterranean Restaurant,Restaurants
+03/19/2018,35,City Water Charges,Utilities
+03/20/2018,14.97,Amazon,Shopping
+03/22/2018,30.55,BP,Gas & Fuel
+03/23/2018,559.91,Credit Card Payment,Credit Card Payment
+03/23/2018,11.76,Grocery Store,Groceries
+03/26/2018,74.99,Internet Service Provider,Internet
+03/28/2018,16.06,Grocery Store,Groceries
+03/28/2018,24.98,Pizza Place,Restaurants
+03/29/2018,17.64,Steakhouse,Restaurants
+03/30/2018,9.09,Grocery Store,Groceries
+03/31/2018,38.32,Belgian Restaurant,Restaurants
+03/31/2018,24.74,Chili's,Restaurants
+03/31/2018,41.16,Greek Restaurant,Restaurants
+04/01/2018,80.79,Grocery Store,Groceries
+04/01/2018,59.48,Brewing Company,Restaurants
+04/01/2018,13.13,Amazon,Shopping
+04/02/2018,817.14,Credit Card Payment,Credit Card Payment
+04/02/2018,82.36,Grocery Store,Groceries
+04/02/2018,13.89,Hardware Store,Home Improvement
+04/02/2018,1247.44,Mortgage Payment,Mortgage & Rent
+04/03/2018,6.41,Amazon Video,Movies & DVDs
+04/04/2018,363.08,Credit Card Payment,Credit Card Payment
+04/04/2018,11.76,Netflix,Movies & DVDs
+04/06/2018,4.58,Chevron,Gas & Fuel
+04/06/2018,9.76,Tiny Deli,Restaurants
+04/08/2018,22,Irish Pub,Restaurants
+04/09/2018,6.48,Blue Sky Market,Groceries
+04/09/2018,10.69,Spotify,Music
+04/09/2018,30,Gas Company,Utilities
+04/11/2018,89.52,Phone Company,Mobile Phone
+04/12/2018,7,Starbucks,Coffee Shops
+04/12/2018,30,Barbershop,Haircut
+04/13/2018,37.98,BP,Gas & Fuel
+04/13/2018,10.66,American Tavern,Restaurants
+04/14/2018,11.61,Hardware Store,Home Improvement
+04/14/2018,41,American Tavern,Restaurants
+04/16/2018,75,State Farm,Auto Insurance
+04/16/2018,35,City Water Charges,Utilities
+04/18/2018,60,Power Company,Utilities
+04/20/2018,24.22,Thai Restaurant,Restaurants
+04/21/2018,4.32,Grocery Store,Groceries
+04/21/2018,35.15,American Tavern,Restaurants
+04/22/2018,21.32,Grocery Store,Groceries
+04/23/2018,42.7,Hardware Store,Home Improvement
+04/24/2018,224.7,Hardware Store,Home Improvement
+04/24/2018,41.34,Amazon,Shopping
+04/25/2018,210.79,Hardware Store,Home Improvement
+04/25/2018,74.99,Internet Service Provider,Internet
+04/26/2018,1216.94,Credit Card Payment,Credit Card Payment
+04/27/2018,769.72,Credit Card Payment,Credit Card Payment
+04/28/2018,22.98,Grocery Store,Groceries
+04/29/2018,39,QuikTrip,Gas & Fuel
+04/29/2018,51.05,Grocery Store,Groceries
+04/29/2018,68.47,Hardware Store,Home Improvement
+04/30/2018,5.09,Grocery Store,Groceries
+05/01/2018,13.13,Amazon,Shopping
+05/02/2018,1247.44,Mortgage Payment,Mortgage & Rent
+05/03/2018,49.72,Amazon,Shopping
+05/04/2018,42.23,Grocery Store,Groceries
+05/04/2018,11.76,Netflix,Movies & DVDs
+05/05/2018,7.27,Bojangles,Fast Food
+05/05/2018,20.52,Pizza Place,Fast Food
+05/06/2018,22.37,Hardware Store,Home Improvement
+05/06/2018,117.69,Amazon,Shopping
+05/09/2018,601.4,Credit Card Payment,Credit Card Payment
+05/09/2018,10.69,Spotify,Music
+05/09/2018,30,Gas Company,Utilities
+05/10/2018,111.18,Phone Company,Mobile Phone
+05/11/2018,57.32,Grocery Store,Groceries
+05/11/2018,8000,Mike's Construction Co.,Home Improvement
+05/12/2018,33.3,Shell,Gas & Fuel
+05/12/2018,78,Fancy Restaurant,Restaurants
+05/14/2018,67.63,Grocery Store,Groceries
+05/15/2018,60,Power Company,Utilities
+05/17/2018,29,Barbershop,Haircut
+05/17/2018,35,City Water Charges,Utilities
+05/18/2018,75,State Farm,Auto Insurance
+05/18/2018,6.41,Amazon,Shopping
+05/19/2018,31,Grocery Store,Groceries
+05/19/2018,23.26,Greek Restaurant,Restaurants
+05/21/2018,26.04,Thai Restaurant,Restaurants
+05/21/2018,32.5,Amazon,Shopping
+05/22/2018,283.07,Credit Card Payment,Credit Card Payment
+05/24/2018,39.44,BP,Gas & Fuel
+05/25/2018,74.99,Internet Service Provider,Internet
+05/28/2018,9.62,Movie Theater,Entertainment
+05/28/2018,91.03,Grocery Store,Groceries
+05/29/2018,20,Movie Theater,Movies & DVDs
+05/29/2018,6.25,Movie Theater,Movies & DVDs
+06/01/2018,38.63,BP,Gas & Fuel
+06/01/2018,6.11,Grocery Store,Groceries
+06/01/2018,13.13,Amazon,Shopping
+06/03/2018,65.81,Italian Restaurant,Restaurants
+06/04/2018,235.18,Credit Card Payment,Credit Card Payment
+06/04/2018,24.12,Grocery Store,Groceries
+06/04/2018,1247.44,Mortgage Payment,Mortgage & Rent
+06/04/2018,11.76,Netflix,Movies & DVDs
+06/06/2018,4,Starbucks,Coffee Shops
+06/08/2018,30,Gas Company,Utilities
+06/09/2018,16.18,Chick-Fil-A,Fast Food
+06/09/2018,9.56,Grocery Store,Groceries
+06/09/2018,10.69,Spotify,Music
+06/10/2018,46.01,Grocery Store,Groceries
+06/12/2018,12.55,Grocery Store,Groceries
+06/12/2018,89.46,Phone Company,Mobile Phone
+06/14/2018,283.44,Credit Card Payment,Credit Card Payment
+06/14/2018,7.02,Grocery Store,Groceries
+06/15/2018,60,Power Company,Utilities
+06/16/2018,3,Starbucks,Coffee Shops
+06/16/2018,22.66,Pizza Place,Fast Food
+06/16/2018,13.9,Grocery Store,Groceries
+06/18/2018,35,City Water Charges,Utilities
+06/19/2018,38.52,Shell,Gas & Fuel
+06/19/2018,2.69,Grocery Store,Groceries
+06/20/2018,75,State Farm,Auto Insurance
+06/20/2018,30,Barbershop,Haircut
+06/21/2018,89.45,Credit Card Payment,Credit Card Payment
+06/23/2018,8.5,Brunch Restaurant,Restaurants
+06/23/2018,74.97,Amazon,Shopping
+06/25/2018,942.76,Credit Card Payment,Credit Card Payment
+06/25/2018,74.99,Internet Service Provider,Internet
+06/26/2018,9.62,Grocery Store,Groceries
+06/27/2018,3.5,Starbucks,Coffee Shops
+06/27/2018,22.66,Pizza Place,Fast Food
+06/28/2018,7.57,Grocery Store,Groceries
+07/01/2018,13.13,Amazon,Shopping
+07/02/2018,1247.44,Mortgage Payment,Mortgage & Rent
+07/02/2018,25,Movie Theater,Movies & DVDs
+07/02/2018,36.44,American Tavern,Restaurants
+07/04/2018,34.48,BP,Gas & Fuel
+07/04/2018,11.76,Netflix,Movies & DVDs
+07/05/2018,44.25,Grocery Store,Groceries
+07/05/2018,212.32,Amazon,Shopping
+07/06/2018,6.41,Amazon Video,Movies & DVDs
+07/09/2018,259.87,Credit Card Payment,Credit Card Payment
+07/09/2018,10.69,Spotify,Music
+07/10/2018,242.16,Credit Card Payment,Credit Card Payment
+07/10/2018,5.39,Grocery Store,Groceries
+07/10/2018,30,Gas Company,Utilities
+07/11/2018,89.46,Phone Company,Mobile Phone
+07/14/2018,33.51,Go Mart,Gas & Fuel
+07/15/2018,36.24,Circle K,Gas & Fuel
+07/17/2018,15.23,Wendy's,Fast Food
+07/17/2018,35,City Water Charges,Utilities
+07/17/2018,60,Power Company,Utilities
+07/18/2018,75,State Farm,Auto Insurance
+07/20/2018,102.88,Credit Card Payment,Credit Card Payment
+07/21/2018,28.93,Grocery Store,Groceries
+07/21/2018,30,Barbershop,Haircut
+07/23/2018,61.43,Credit Card Payment,Credit Card Payment
+07/23/2018,9.58,Starbucks,Fast Food
+07/24/2018,26.59,American Tavern,Restaurants
+07/25/2018,74.99,Internet Service Provider,Internet
+07/26/2018,33.67,Conoco,Gas & Fuel
+07/28/2018,7.61,Grocery Store,Groceries
+07/30/2018,34.38,American Tavern,Restaurants
+08/01/2018,13.13,Amazon,Shopping
+08/02/2018,40.44,Shell,Gas & Fuel
+08/02/2018,1247.44,Mortgage Payment,Mortgage & Rent
+08/03/2018,6.27,Grocery Store,Groceries
+08/04/2018,11.76,Netflix,Movies & DVDs
+08/06/2018,76.47,Amazon,Shopping
+08/09/2018,10.69,Spotify,Music
+08/09/2018,30,Gas Company,Utilities
+08/10/2018,89.4,Phone Company,Mobile Phone
+08/11/2018,13.67,Chick-Fil-A,Fast Food
+08/11/2018,33.66,Valero,Gas & Fuel
+08/15/2018,41.07,Shell,Gas & Fuel
+08/15/2018,5.64,Grocery Store,Groceries
+08/15/2018,60,Power Company,Utilities
+08/16/2018,269.56,Credit Card Payment,Credit Card Payment
+08/16/2018,35,City Water Charges,Utilities
+08/17/2018,14.98,Amazon,Shopping
+08/18/2018,23.47,Amazon,Shopping
+08/20/2018,75,State Farm,Auto Insurance
+08/21/2018,99.76,Credit Card Payment,Credit Card Payment
+08/22/2018,34.18,Credit Card Payment,Credit Card Payment
+08/24/2018,42.31,American Tavern,Restaurants
+08/27/2018,74.99,Internet Service Provider,Internet
+08/30/2018,35.65,Shell,Gas & Fuel
+08/31/2018,11.64,Grocery Store,Groceries
+09/01/2018,13.13,Amazon,Shopping
+09/02/2018,109.83,Amazon,Shopping
+09/04/2018,687.29,Credit Card Payment,Credit Card Payment
+09/04/2018,1247.44,Mortgage Payment,Mortgage & Rent
+09/04/2018,11.76,Netflix,Movies & DVDs
+09/07/2018,30,Gas Company,Utilities
+09/09/2018,10.69,Spotify,Music
+09/11/2018,38.86,BP,Gas & Fuel
+09/11/2018,7.87,Grocery Store,Groceries
+09/12/2018,47.16,Grocery Store,Groceries
+09/12/2018,89.4,Phone Company,Mobile Phone
+09/13/2018,5.64,Grocery Store,Groceries
+09/17/2018,10.17,Grocery Store,Groceries
+09/17/2018,8.8,Grocery Store,Groceries
+09/17/2018,35,City Water Charges,Utilities
+09/18/2018,4.32,Grocery Store,Groceries
+09/18/2018,60,Power Company,Utilities
+09/19/2018,75,State Farm,Auto Insurance
+09/19/2018,30,Barbershop,Haircut
+09/20/2018,47.38,Amazon,Shopping
+09/22/2018,69.4,Hardware Store,Home Improvement
+09/22/2018,6.83,Hardware Store,Home Improvement
+09/25/2018,74.99,Internet Service Provider,Internet
+09/25/2018,48.64,Sushi Restaurant,Restaurants
+09/26/2018,5,Starbucks,Coffee Shops
+09/26/2018,38,Exxon,Gas & Fuel
+09/27/2018,40.71,Valero,Gas & Fuel
+09/28/2018,284.96,Credit Card Payment,Credit Card Payment
+09/28/2018,13.36,Grocery Store,Groceries
+09/29/2018,23.26,Greek Restaurant,Restaurants
+09/29/2018,46.7,German Restaurant,Restaurants
+10/01/2018,3,Starbucks,Coffee Shops
+10/01/2018,128.12,Credit Card Payment,Credit Card Payment
+10/01/2018,15.66,Grocery Store,Groceries
+10/01/2018,13.13,Amazon,Shopping
+10/02/2018,124.03,Credit Card Payment,Credit Card Payment
+10/02/2018,1209.18,Mortgage Payment,Mortgage & Rent
+10/04/2018,11.76,Netflix,Movies & DVDs
+10/06/2018,27,American Tavern,Restaurants
+10/08/2018,38.06,Shell,Gas & Fuel
+10/08/2018,80.65,Hardware Store,Home Improvement
+10/08/2018,31.2,Hardware Store,Home Improvement
+10/09/2018,10.69,Spotify,Music
+10/09/2018,19.98,Amazon,Shopping
+10/09/2018,30,Gas Company,Utilities
+10/10/2018,53.68,Grocery Store,Groceries
+10/11/2018,89.4,Phone Company,Mobile Phone
+10/16/2018,60,Power Company,Utilities
+10/17/2018,35,City Water Charges,Utilities
+10/18/2018,75,State Farm,Auto Insurance
+10/18/2018,33.55,Grocery Store,Groceries
+10/18/2018,45.24,Hardware Store,Home Improvement
+10/18/2018,8,Brunch Restaurant,Restaurants
+10/22/2018,353.83,Credit Card Payment,Credit Card Payment
+10/22/2018,34.66,BP,Gas & Fuel
+10/23/2018,7.57,Grocery Store,Groceries
+10/25/2018,74.99,Internet Service Provider,Internet
+10/25/2018,29.98,Amazon,Shopping
+10/27/2018,25.4,American Tavern,Restaurants
+10/28/2018,14.75,Seafood Restaurant,Food & Dining
+10/28/2018,92.49,Grocery Store,Groceries
+10/28/2018,54,Italian Restaurant,Restaurants
+10/31/2018,5.64,Grocery Store,Groceries
+11/01/2018,13.13,Amazon,Shopping
+11/02/2018,262.51,Credit Card Payment,Credit Card Payment
+11/02/2018,1209.18,Mortgage Payment,Mortgage & Rent
+11/03/2018,23.66,Pizza Place,Fast Food
+11/04/2018,11.76,Netflix,Movies & DVDs
+11/05/2018,36.51,Shell,Gas & Fuel
+11/06/2018,53.95,Amazon,Shopping
+11/06/2018,30,Gas Company,Utilities
+11/08/2018,5.64,Grocery Store,Groceries
+11/09/2018,10.69,Spotify,Music
+11/10/2018,14.19,Chick-Fil-A,Fast Food
+11/10/2018,24.4,Food Truck,Groceries
+11/12/2018,10.18,Grocery Store,Groceries
+11/12/2018,22.33,American Tavern,Restaurants
+11/13/2018,4.8,Grocery Store,Groceries
+11/13/2018,37.43,Grocery Store,Groceries
+11/13/2018,10.15,Grocery Store,Groceries
+11/13/2018,89.54,Phone Company,Mobile Phone
+11/14/2018,60,Power Company,Utilities
+11/16/2018,35,City Water Charges,Utilities
+11/17/2018,15.47,Hardware Store,Home Improvement
+11/17/2018,6.4,Hardware Store,Home Improvement
+11/17/2018,23.26,Greek Restaurant,Restaurants
+11/19/2018,29.15,QuikTrip,Gas & Fuel
+11/19/2018,10.02,Hardware Store,Home Improvement
+11/20/2018,75,State Farm,Auto Insurance
+11/21/2018,5.64,Grocery Store,Groceries
+11/21/2018,37.41,Hardware Store,Home Improvement
+11/26/2018,74.99,Internet Service Provider,Internet
+11/27/2018,17,Movie Theater,Movies & DVDs
+11/27/2018,28.4,American Tavern,Restaurants
+11/30/2018,582.99,Credit Card Payment,Credit Card Payment
+11/30/2018,6.27,Grocery Store,Groceries
+12/01/2018,5.64,Grocery Store,Groceries
+12/01/2018,8,Brunch Restaurant,Restaurants
+12/01/2018,13.13,Amazon,Shopping
+12/03/2018,30.03,BP,Gas & Fuel
+12/03/2018,148.15,Grocery Store,Groceries
+12/03/2018,1209.18,Mortgage Payment,Mortgage & Rent
+12/04/2018,3,Starbucks,Coffee Shops
+12/04/2018,20.65,Latin Restaurant,Fast Food
+12/04/2018,11.76,Netflix,Movies & DVDs
+12/06/2018,21.38,Grocery Store,Groceries
+12/06/2018,13.48,Grocery Store,Groceries
+12/06/2018,40,Gas Company,Utilities
+12/07/2018,30,Barbershop,Haircut
+12/08/2018,12.64,Grocery Store,Groceries
+12/09/2018,10.69,Spotify,Music
+12/11/2018,10.29,Brunch Restaurant,Restaurants
+12/12/2018,89.54,Phone Company,Mobile Phone
+12/13/2018,27,Thai Restaurant,Restaurants
+12/14/2018,21.39,Grocery Store,Groceries
+12/14/2018,17.1,Hardware Store,Home Improvement
+12/14/2018,60,Power Company,Utilities
+12/17/2018,63,American Tavern,Food & Dining
+12/17/2018,20.01,BP,Gas & Fuel
+12/17/2018,35,City Water Charges,Utilities
+12/18/2018,3,Starbucks,Coffee Shops
+12/18/2018,311.02,Credit Card Payment,Credit Card Payment
+12/18/2018,56.52,Fancy Restaurant,Restaurants
+12/18/2018,49.99,Amazon,Shopping
+12/18/2018,41.72,Amazon,Shopping
+12/18/2018,24.3,Amazon,Shopping
+12/19/2018,75,State Farm,Auto Insurance
+12/19/2018,43.01,Amazon,Shopping
+12/20/2018,30.38,Shell,Gas & Fuel
+12/21/2018,464.03,Credit Card Payment,Credit Card Payment
+12/22/2018,21.38,New York Deli,Fast Food
+12/22/2018,22.14,Hardware Store,Home Improvement
+12/23/2018,28,Hardware Store,Home Improvement
+12/24/2018,38.4,Hardware Store,Home Improvement
+12/26/2018,56.07,Chick-Fil-A,Fast Food
+12/26/2018,32.47,Shell,Gas & Fuel
+12/26/2018,7.48,Shell,Gas & Fuel
+12/26/2018,75.99,Internet Service Provider,Internet
+12/26/2018,44.99,Amazon,Shopping
+12/29/2018,55.04,Grocery Store,Groceries
+01/01/2019,13.09,Amazon,Shopping
+01/02/2019,499.6,Credit Card Payment,Credit Card Payment
+01/03/2019,1100,Mortgage Payment,Mortgage & Rent
+01/03/2019,42.1,Amazon,Shopping
+01/05/2019,23.49,American Tavern,Restaurants
+01/08/2019,45,Gas Company,Utilities
+01/09/2019,491.45,Credit Card Payment,Credit Card Payment
+01/09/2019,281.84,Credit Card Payment,Credit Card Payment
+01/09/2019,10.69,Spotify,Music
+01/10/2019,58.79,Grocery Store,Groceries
+01/10/2019,30,Barbershop,Haircut
+01/10/2019,65,Phone Company,Mobile Phone
+01/14/2019,28.92,Shell,Gas & Fuel
+01/15/2019,6.06,Grocery Store,Groceries
+01/16/2019,35,City Water Charges,Utilities
+01/16/2019,60,Power Company,Utilities
+01/18/2019,75,State Farm,Auto Insurance
+01/22/2019,277.99,Credit Card Payment,Credit Card Payment
+01/24/2019,21.06,Grocery Store,Groceries
+01/24/2019,11.7,Amazon,Shopping
+01/24/2019,4.21,Amazon,Shopping
+01/25/2019,75,Internet Service Provider,Internet
+01/31/2019,1900,Credit Card Payment,Credit Card Payment
+01/31/2019,31.32,Shell,Gas & Fuel
+02/01/2019,9.47,Roadside Diner,Restaurants
+02/01/2019,13.09,Amazon,Shopping
+02/04/2019,86.97,Hardware Store,Home Improvement
+02/04/2019,11.76,Netflix,Television
+02/05/2019,1100,Mortgage Payment,Mortgage & Rent
+02/07/2019,65,Gas Company,Utilities
+02/08/2019,3,Starbucks,Coffee Shops
+02/08/2019,27.47,Thai Restaurant,Restaurants
+02/09/2019,10.69,Spotify,Music
+02/11/2019,3,Starbucks,Coffee Shops
+02/11/2019,133.95,Credit Card Payment,Credit Card Payment
+02/11/2019,24.01,BP,Gas & Fuel
+02/12/2019,30.54,Grocery Store,Groceries
+02/12/2019,65,Phone Company,Mobile Phone
+02/13/2019,8.21,Grocery Store,Groceries
+02/15/2019,207.47,Credit Card Payment,Credit Card Payment
+02/15/2019,4.59,Grocery Store,Groceries
+02/15/2019,60,Power Company,Utilities
+02/16/2019,32.75,American Tavern,Restaurants
+02/16/2019,37.45,Amazon,Shopping
+02/19/2019,574.84,Credit Card Payment,Credit Card Payment
+02/19/2019,35,City Water Charges,Utilities
+02/20/2019,75,State Farm,Auto Insurance
+02/20/2019,30,Barbershop,Haircut
+02/21/2019,292.54,Credit Card Payment,Credit Card Payment
+02/21/2019,46.96,Grocery Store,Groceries
+02/25/2019,33.8,BP,Gas & Fuel
+02/25/2019,75,Internet Service Provider,Internet
+02/27/2019,25.77,Roadside Diner,Restaurants
+02/28/2019,32.07,Grocery Store,Groceries
+03/01/2019,13.09,Amazon,Shopping
+03/04/2019,92.04,Grocery Store,Groceries
+03/04/2019,1100,Mortgage Payment,Mortgage & Rent
+03/04/2019,11.76,Netflix,Television
+03/05/2019,7,Fancy Restaurant,Restaurants
+03/06/2019,491.86,Credit Card Payment,Credit Card Payment
+03/08/2019,34.08,BP,Gas & Fuel
+03/08/2019,27.17,Amazon,Shopping
+03/08/2019,49,Gas Company,Utilities
+03/09/2019,10.69,Spotify,Music
+03/12/2019,65,Phone Company,Mobile Phone
+03/12/2019,3.02,Bakery Place,Restaurants
+03/14/2019,305.27,Credit Card Payment,Credit Card Payment
+03/14/2019,301.79,Credit Card Payment,Credit Card Payment
+03/14/2019,8,Brunch Restaurant,Restaurants
+03/15/2019,60,Power Company,Utilities
+03/18/2019,320.99,Best Buy,Electronics & Software
+03/18/2019,16.23,Grocery Store,Groceries
+03/19/2019,13.84,Amazon,Shopping
+03/19/2019,35,City Water Charges,Utilities
+03/20/2019,75,State Farm,Auto Insurance
+03/22/2019,37.51,BP,Gas & Fuel
+03/23/2019,5.2,Starbucks,Coffee Shops
+03/25/2019,75,Internet Service Provider,Internet
+03/26/2019,16.04,Amazon,Shopping
+03/27/2019,4.46,Grocery Store,Groceries
+03/30/2019,12.84,Starbucks,Coffee Shops
+04/01/2019,1552.65,Credit Card Payment,Credit Card Payment
+04/01/2019,13.09,Amazon,Shopping
+04/02/2019,1100,Mortgage Payment,Mortgage & Rent
+04/04/2019,5.64,Grocery Store,Groceries
+04/04/2019,35.9,Amazon,Shopping
+04/04/2019,11.76,Netflix,Television
+04/06/2019,27.54,Amazon,Shopping
+04/08/2019,30,Gas Company,Utilities
+04/09/2019,436.75,Credit Card Payment,Credit Card Payment
+04/09/2019,10.7,Grocery Store,Groceries
+04/09/2019,30,Barbershop,Haircut
+04/09/2019,10.69,Spotify,Music
+04/10/2019,65,Phone Company,Mobile Phone
+04/12/2019,44.93,Best Buy,Electronics & Software
+04/12/2019,41.34,Grocery Store,Groceries
+04/13/2019,38.94,QuikTrip,Gas & Fuel
+04/13/2019,16.87,Grocery Store,Groceries
+04/13/2019,20.64,Vietnamese Restaurant,Restaurants
+04/15/2019,60,Power Company,Utilities
+04/16/2019,35,City Water Charges,Utilities
+04/18/2019,75,State Farm,Auto Insurance
+04/19/2019,604.32,Credit Card Payment,Credit Card Payment
+04/19/2019,10.89,Grocery Store,Groceries
+04/22/2019,64.52,Greek Restaurant,Restaurants
+04/23/2019,29.56,Hardware Store,Home Improvement
+04/25/2019,75,Internet Service Provider,Internet
+04/27/2019,14.74,American Tavern,Restaurants
+04/29/2019,268.96,Credit Card Payment,Credit Card Payment
+04/29/2019,5.64,Grocery Store,Groceries
+04/30/2019,39.08,BP,Gas & Fuel
+05/01/2019,13.09,Amazon,Shopping
+05/02/2019,1100,Mortgage Payment,Mortgage & Rent
+05/03/2019,758.07,Credit Card Payment,Credit Card Payment
+05/04/2019,13.9,Netflix,Television
+05/06/2019,16.94,Amazon,Shopping
+05/07/2019,38.56,Amazon,Shopping
+05/09/2019,331.69,Best Buy,Electronics & Software
+05/09/2019,10.69,Spotify,Music
+05/09/2019,3.2,Target,Shopping
+05/09/2019,30,Gas Company,Utilities
+05/10/2019,21.39,Best Buy,Electronics & Software
+05/10/2019,65,Phone Company,Mobile Phone
+05/13/2019,480.88,Credit Card Payment,Credit Card Payment
+05/13/2019,35.24,QuikTrip,Gas & Fuel
+05/13/2019,98.19,Fancy Restaurant,Restaurants
+05/13/2019,23.11,Greek Restaurant,Restaurants
+05/14/2019,2.02,Grocery Store,Groceries
+05/15/2019,60,Power Company,Utilities
+05/17/2019,35,City Water Charges,Utilities
+05/20/2019,75,State Farm,Auto Insurance
+05/20/2019,415.47,Credit Card Payment,Credit Card Payment
+05/20/2019,32.53,American Tavern,Restaurants
+05/24/2019,27.96,Hardware Store,Home Improvement
+05/24/2019,8,Brunch Restaurant,Restaurants
+05/25/2019,36.76,QuikTrip,Gas & Fuel
+05/25/2019,30.99,Hardware Store,Home Improvement
+05/27/2019,34.33,Mexican Restaurant,Restaurants
+05/28/2019,765.68,Credit Card Payment,Credit Card Payment
+05/30/2019,75,Internet Service Provider,Internet
+05/30/2019,34.82,American Tavern,Restaurants
+06/01/2019,13.09,Amazon,Shopping
+06/03/2019,2.75,Starbucks,Coffee Shops
+06/03/2019,1100,Mortgage Payment,Mortgage & Rent
+06/04/2019,30,Barbershop,Haircut
+06/04/2019,13.9,Netflix,Television
+06/05/2019,23,Grocery Store,Groceries
+06/05/2019,23.24,Mexican Restaurant,Restaurants
+06/06/2019,3.75,Starbucks,Coffee Shops
+06/06/2019,5.64,Grocery Store,Groceries
+06/07/2019,458.56,Credit Card Payment,Credit Card Payment
+06/07/2019,30,Gas Company,Utilities
+06/09/2019,10.69,Spotify,Music
+06/12/2019,65,Phone Company,Mobile Phone
+06/13/2019,152.72,Credit Card Payment,Credit Card Payment
+06/14/2019,10.69,Grocery Store,Groceries
+06/15/2019,33.16,BP,Gas & Fuel
+06/17/2019,35,City Water Charges,Utilities
+06/17/2019,60,Power Company,Utilities
+06/18/2019,41.83,Shell,Gas & Fuel
+06/19/2019,75,State Farm,Auto Insurance
+06/20/2019,375.26,Credit Card Payment,Credit Card Payment
+06/21/2019,100.68,Credit Card Payment,Credit Card Payment
+06/28/2019,30.64,BP,Gas & Fuel
+06/30/2019,75,Internet Service Provider,Internet
+07/01/2019,7,Starbucks,Coffee Shops
+07/01/2019,99.47,Grocery Store,Groceries
+07/01/2019,24.97,Hawaiian Grill,Restaurants
+07/01/2019,24,Thai Restaurant,Restaurants
+07/01/2019,13.09,Amazon,Shopping
+07/02/2019,229.9,Hardware Store,Home Improvement
+07/02/2019,1100,Mortgage Payment,Mortgage & Rent
+07/04/2019,13.9,Netflix,Television
+07/06/2019,92.98,Grocery Store,Groceries
+07/06/2019,23.26,Greek Restaurant,Restaurants
+07/07/2019,103.14,Hardware Store,Home Improvement
+07/08/2019,305.28,Credit Card Payment,Credit Card Payment
+07/08/2019,220.08,Credit Card Payment,Credit Card Payment
+07/09/2019,10.69,Spotify,Music
+07/10/2019,65,Phone Company,Mobile Phone
+07/10/2019,30,Gas Company,Utilities
+07/15/2019,87.14,Grocery Store,Groceries
+07/16/2019,89.99,Amazon,Shopping
+07/16/2019,60,Power Company,Utilities
+07/17/2019,35,City Water Charges,Utilities
+07/18/2019,75,State Farm,Auto Insurance
+07/18/2019,814.5,Credit Card Payment,Credit Card Payment
+07/18/2019,36.42,BP,Gas & Fuel
+07/18/2019,29.83,Grocery Store,Groceries
+07/18/2019,8.82,Brunch Restaurant,Restaurants
+07/19/2019,28,Mexican Restaurant,Restaurants
+07/22/2019,26.67,Thai Restaurant,Restaurants
+07/23/2019,257.08,Credit Card Payment,Credit Card Payment
+07/24/2019,2.5,Starbucks,Coffee Shops
+07/27/2019,30,Barbershop,Haircut
+07/28/2019,44.31,Hardware Store,Home Improvement
+07/29/2019,5.35,Grocery Store,Groceries
+07/29/2019,44.92,Fancy Restaurant,Restaurants
+07/30/2019,15.77,Grocery Store,Groceries
+07/30/2019,75,Internet Service Provider,Internet
+08/01/2019,13.09,Amazon,Shopping
+08/02/2019,1100,Mortgage Payment,Mortgage & Rent
+08/03/2019,36.36,BP,Gas & Fuel
+08/03/2019,3.96,Grocery Store,Groceries
+08/03/2019,23.47,American Tavern,Restaurants
+08/04/2019,13.9,Netflix,Television
+08/06/2019,521.17,Credit Card Payment,Credit Card Payment
+08/06/2019,117.65,Credit Card Payment,Credit Card Payment
+08/06/2019,125,Hardware Store,Home Improvement
+08/08/2019,11.72,Grocery Store,Groceries
+08/09/2019,10.69,Spotify,Music
+08/09/2019,30,Gas Company,Utilities
+08/12/2019,65,Phone Company,Mobile Phone
+08/12/2019,26.67,Thai Restaurant,Restaurants
+08/14/2019,2.75,Starbucks,Coffee Shops
+08/15/2019,335.2,Credit Card Payment,Credit Card Payment
+08/15/2019,60,Power Company,Utilities
+08/16/2019,35,City Water Charges,Utilities
+08/17/2019,33.15,Grocery Store,Groceries
+08/17/2019,19,Barbershop,Haircut
+08/17/2019,3.5,American Tavern,Restaurants
+08/19/2019,1248.95,Credit Card Payment,Credit Card Payment
+08/20/2019,75,State Farm,Auto Insurance
+08/20/2019,2.75,Starbucks,Coffee Shops
+08/21/2019,34.69,Shell,Gas & Fuel
+08/23/2019,2.75,Starbucks,Coffee Shops
+08/25/2019,39.43,Brunch Restaurant,Restaurants
+08/26/2019,66.75,Hardware Store,Home Improvement
+08/29/2019,3,Starbucks,Coffee Shops
+08/30/2019,2.75,Starbucks,Coffee Shops
+08/30/2019,75,Internet Service Provider,Internet
+08/31/2019,68.04,Hardware Store,Home Improvement
+08/31/2019,41.78,BBQ Restaurant,Restaurants
+09/01/2019,13.09,Amazon,Shopping
+09/03/2019,1100,Mortgage Payment,Mortgage & Rent
+09/03/2019,41.24,Fancy Restaurant,Restaurants
+09/04/2019,13.9,Netflix,Television
+09/05/2019,3.75,Starbucks,Coffee Shops
+09/06/2019,1390.37,Credit Card Payment,Credit Card Payment
+09/06/2019,502.75,Credit Card Payment,Credit Card Payment
+09/09/2019,28.77,Shell,Gas & Fuel
+09/09/2019,65.09,Grocery Store,Groceries
+09/09/2019,26.25,Hardware Store,Home Improvement
+09/09/2019,10.69,Spotify,Music
+09/09/2019,30,Gas Company,Utilities
+09/11/2019,65,Phone Company,Mobile Phone
+09/12/2019,360.56,Credit Card Payment,Credit Card Payment
+09/13/2019,2.75,Starbucks,Coffee Shops
+09/14/2019,46.44,Grocery Store,Groceries
+09/15/2019,47.66,Amazon,Shopping
+09/16/2019,90.57,Credit Card Payment,Credit Card Payment
+09/16/2019,35,City Water Charges,Utilities
+09/17/2019,60,Power Company,Utilities
+09/18/2019,75,State Farm,Auto Insurance
+09/18/2019,1606.46,Credit Card Payment,Credit Card Payment
+09/19/2019,2.75,Starbucks,Coffee Shops
+09/22/2019,131.1,Seafood Restaurant,Restaurants
+09/23/2019,9.43,Credit Card Payment,Credit Card Payment
+09/23/2019,27.71,Grocery Store,Groceries
+09/23/2019,24.63,Amazon,Shopping
+09/28/2019,33.46,BP,Gas & Fuel
+09/28/2019,4.27,Sheetz,Gas & Fuel
+09/30/2019,1.75,Starbucks,Coffee Shops
+09/30/2019,75,Internet Service Provider,Internet
